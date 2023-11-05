@@ -21,6 +21,7 @@ app.post("/", (req, res) => {   // body데이터는 post() 메서드를 쓸 떄 
 })
 
 
+
 // app.get("/", (req, res) => {
 //   console.log(req.query);
 
